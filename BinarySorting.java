@@ -27,7 +27,7 @@ public class BinarySorting{
     }
     if(indexHolder > -1){
       System.out.println("index: " + indexHolder); //if statementet gør at hvis indexholder har en værdi skal den printe dens værdi.
-    }else{ //ellers skal den skrive at tallet ikke er fundet. 
+    }else{ //ellers skal den skrive at tallet ikke er fundet.
       System.out.println("Tal ikke fundet!");
     }
   }
